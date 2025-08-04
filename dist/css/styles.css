@@ -10970,3 +10970,21 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.bg-primary {
+    background-color: #6a0dad !important; /* Customize this color */
+}
+.resume-btn {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 0.6rem 1.2rem;
+    letter-spacing: 0.5px;
+    border-radius: 6px;
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+}
+
+.resume-btn:hover {
+    background-color: #5a0cb0;
+}
